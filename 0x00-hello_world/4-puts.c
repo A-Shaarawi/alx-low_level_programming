@@ -5,7 +5,7 @@
  * @parameter: describe the parameter
  * Return: Always 0 (Success)
  */
-int main(void)
+void main()
 {
 	char mystr[] = "\"Programming is like building a multilingual puzzle";
 
