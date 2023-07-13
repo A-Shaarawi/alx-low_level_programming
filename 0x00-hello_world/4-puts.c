@@ -11,5 +11,5 @@ int main (void)
 
 	puts(mystr);
 
-	return (0);
+	return(0);
 }
