@@ -5,11 +5,11 @@
  * @parameter: describe the parameter
  * Return: Always 0 (Success)
  */
-void main()
+int main()
 {
 	char mystr[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(mystr);
 
-	
+	return (0);
 }
