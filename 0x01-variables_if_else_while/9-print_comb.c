@@ -18,8 +18,15 @@ z = 32;
 while (x < 58)
 {
 putchar(x);
+if (x < 57)
+{
 putchar(y);
 putchar(z);
+}
+else
+{
+    break;
+}
 x++;
 }
 putchar('\n');
