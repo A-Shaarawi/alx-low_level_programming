@@ -16,7 +16,7 @@ while (x <= 'z')
 putchar(x);
 x++;
 }
-}
+};
 
 int main(void)
 {
