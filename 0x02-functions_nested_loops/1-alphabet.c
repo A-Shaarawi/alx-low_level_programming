@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: 'the program's description'
- * Return: Always 0 (Success)
+ * main - check the code for Holberton School students.
+ * Return: Always 0.
  */
 void print_alphabet(void);
 
 void print_alphabet()
-{ 
+{
 char x;
 
 x = 'a';
