@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'the program's description'
+ * Description: print alphabet
  * Return: Always 0 (Success)
  */
 
