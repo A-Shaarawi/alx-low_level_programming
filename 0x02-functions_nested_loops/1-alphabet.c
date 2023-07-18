@@ -3,10 +3,8 @@
 /**
  * main - Entry point
  * Description: print alphabet
+ * print_alphabet() - prints
  * Return: Always 0 (Success)
- */
-/**
- * print_alphabet - print alphabet
  */
 
 void print_alphabet(void)
