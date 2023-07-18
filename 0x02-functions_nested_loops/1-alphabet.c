@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: print alphabet
- * function:print aphabet
+ * print_alphabet:print aphabet
  * Return: Always 0 (Success)
  */
 
