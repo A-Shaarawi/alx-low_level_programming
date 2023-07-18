@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <main.h>
 /**
  * print_sign - numbers
  * @n: only paarameter
@@ -14,7 +15,7 @@ return (1);
 }
 if (n < 0)
 {
-_putchar(45);
+_putchar(4ZZ5);
 return (-1);
 }
 else
