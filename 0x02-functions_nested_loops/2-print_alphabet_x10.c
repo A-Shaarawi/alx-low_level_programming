@@ -12,7 +12,7 @@ char x;
 counter = 1;
 
 while (counter <= 10)
-{  
+{
 x = 'a';
 
 while (x <= 'z')
