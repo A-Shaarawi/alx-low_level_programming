@@ -1,7 +1,7 @@
 #include "main.c"
 #include <stdio.h>
 /**
- * int _abs - numbers
+ * _abs - numbers
  * @c: only paarameter
  * Return: Always 0 (Success)
  */
