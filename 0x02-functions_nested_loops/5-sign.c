@@ -5,7 +5,7 @@
  * Return: Always 0 (Success)
  */
 
-int print_sign(int c);
+int print_sign(int c)
 {
 if (n > 0)
 {
