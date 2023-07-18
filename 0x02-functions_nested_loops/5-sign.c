@@ -15,7 +15,7 @@ return (1);
 }
 if (n < 0)
 {
-_putchar(4ZZ5);
+_putchar(45);
 return (-1);
 }
 else
