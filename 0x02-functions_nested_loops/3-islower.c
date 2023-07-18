@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * _islower - alphabet x10
  * @c: only parameter
