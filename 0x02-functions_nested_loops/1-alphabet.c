@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  * Description: print alphabet
- * void:print aphabet
+ * void - second
+ * Description: print alphabet
  * Return: Always 0 (Success)
  */
 
