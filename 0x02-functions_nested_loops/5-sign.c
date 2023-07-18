@@ -22,5 +22,5 @@ else
 printf("0");
 return (0);
 }
-return (c);
+return (n);
 }
