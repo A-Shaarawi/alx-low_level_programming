@@ -6,12 +6,6 @@
  */
 void print_alphabet(void);
 
-int main(void)
-{
-print_alphabet();
-return (0);
-}
-
 void print_alphabet()
 {
  
@@ -22,4 +16,10 @@ while (x <= 'z')
 putchar(x);
 x++;
 }
+}
+
+int main(void)
+{
+print_alphabet();
+return (0);
 }
