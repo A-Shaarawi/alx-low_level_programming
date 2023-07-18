@@ -4,7 +4,7 @@
  * main - Entry point
  * Description: print alphabet
  * void - second
- * Description: print alphabets
+ * Description2: print alphabets
  * Return: Always 0 (Success)
  */
 
