@@ -16,6 +16,10 @@ if (a > b && b > c)
 {
 largest = a;
 }
+if (a > c && c > b)
+{
+largest = a;
+}
 else if (a > b && c > a)
 {
 largest = c;
