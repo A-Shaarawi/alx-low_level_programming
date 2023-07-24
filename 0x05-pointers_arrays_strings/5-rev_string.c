@@ -15,10 +15,11 @@ void rev_string(char *s)
 
 	int i;
 
+	i = 0;
 	while (s[count] != '\0')
-		{
+	{
 			count++;
-			i = 0;
+	}
 			while (i < count)
 			{
 				count--;
@@ -27,5 +28,5 @@ void rev_string(char *s)
 				s[count] = temp;
 				i++;
 			}
-		}
+		
 }
