@@ -4,7 +4,7 @@
 /**
  * *_strcpy - funtion
  * @dest: parameter
- * @sec: parameter
+ * @src: parameter
  * Return: char
  */
 
@@ -18,10 +18,9 @@ char *_strcpy(char *dest, char *src)
 	{
 		i++;
 	}
-	while (j < i)
+	for ( ; x < l ; x++)
 	{
-		 dest[j] = src[j];
-		 j++;
+		dest[x] = src[x];
 	}
 	dest[i] = 0;
 	return (dest);
