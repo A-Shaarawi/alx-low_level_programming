@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * _strcat - function
+ * _memcpy - function
  * @dest: parameter
  * @src: parameter
  * @n: parameter
