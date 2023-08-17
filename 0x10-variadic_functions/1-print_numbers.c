@@ -22,7 +22,7 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	{
 		for (i = 0; i < n; i++)
 		{
-			x = va_arg(args, unsigned int);
+			x = va_arg(args, int);
 			printf("%d", x);
 		}
 	}
@@ -30,7 +30,7 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	{
 		for (i = 0; i < n; i++)
 		{
-		x = va_arg(args, unsigned int);
+		x = va_arg(args, int);
 		if (i < n - 1)
 			printf("%d%s", x, separator);
 		else if (i == n - 1)
