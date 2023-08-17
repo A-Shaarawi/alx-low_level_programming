@@ -5,7 +5,7 @@
 /**
  * sum_them_all - function
  * @n: parameter
- * Retun: number
+ * Return: number
  */
 
 int sum_them_all(const unsigned int n, ...)
