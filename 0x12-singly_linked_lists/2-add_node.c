@@ -7,7 +7,7 @@
  * add_node - fucntion
  * @head: para
  * @str: para
- * Return - head
+ * Return: head
  */
 
 list_t *add_node(list_t **head, const char *str)
