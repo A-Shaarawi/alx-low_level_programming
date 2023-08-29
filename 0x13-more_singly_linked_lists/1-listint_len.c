@@ -2,7 +2,7 @@
 #include "lists.h"
 
 /**
- * print_listint - fucntion
+ * listint_len - fucntion
  * @h: para
  * Return: number
  */
